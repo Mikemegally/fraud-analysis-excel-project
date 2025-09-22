@@ -42,4 +42,5 @@ The goal is to identify fraud patterns and provide decision support for risk man
 ## How to Use
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/<your-username>/fraud-analysis-dashboard.git
+   git clone https://github.com/Mikemegally/fraud-analysis-excel-project.git
+
